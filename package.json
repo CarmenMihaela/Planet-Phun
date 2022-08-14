@@ -1,0 +1,24 @@
+{
+  "name": "planet-phun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarmenMihaela/Planet-Phun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarmenMihaela/Planet-Phun/issues"
+  },
+  "homepage": "https://github.com/CarmenMihaela/Planet-Phun#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.5",
+    "three": "^0.143.0"
+  }
+}
